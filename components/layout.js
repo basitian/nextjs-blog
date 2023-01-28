@@ -4,7 +4,7 @@ import Link from 'next/link';
 import Head from 'next/head';
 import Image from 'next/image';
 
-const name = 'Jane Schlüter';
+const name = 'Hannes Hansen';
 export const siteTitle = 'My Readtastic Blog';
 
 export default function Layout({ children, home }) {
